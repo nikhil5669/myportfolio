@@ -183,6 +183,9 @@ footer p {
 }
 
 /* Contact Section Styles */
+.contact-section placeholder {
+    colour: white;
+}
 .contact-section {
     margin: 50px auto;
     padding: 30px;
